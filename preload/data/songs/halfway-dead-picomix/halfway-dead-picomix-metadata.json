@@ -1,0 +1,61 @@
+{
+  "version": "2.2.4",
+  "songName": "Halfway Dead pico",
+  "artist": "JamSkrimer",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    },
+    "altVocals": {    }
+  },
+  "playData": {
+    "songVariations": [    ],
+    "difficulties": [
+      "easy",
+      "normal",
+      "hard"
+    ],
+    "characters": {
+      "player": "pico-playable",
+      "girlfriend": "gf-car",
+      "opponent": "dad",
+      "instrumental": "",
+      "altInstrumentals": [      ],
+      "opponentVocals": [
+        "mom-car"
+      ],
+      "playerVocals": [
+        "bf-car"
+      ]
+    },
+    "stage": "mainStage",
+    "noteStyle": "funkin",
+    "ratings": {
+      "easy": 2,
+      "hard": 12,
+      "normal": 12
+    },
+    "album": "volume1",
+    "previewStart": 0,
+    "previewEnd": 15000
+  },
+  "generatedBy": "Friday Night Funkin' - v0.5.2",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 200,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}
