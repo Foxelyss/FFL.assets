@@ -17,7 +17,7 @@
       "name": "halloweenBG",
       "isPixel": false,
       "startingAnimation": "idle",
-      "assetPath": "halloween_bg",
+      "assetPath": "alt_basement",
       "scroll": [1, 1],
       "animations": [
         {
@@ -28,14 +28,6 @@
           "looped": true,
           "flipX": false,
           "name": "idle"
-        },
-        {
-          "offsets": [0, 0],
-          "flipY": false,
-          "frameRate": 24,
-          "prefix": "halloweem bg lightning strike",
-          "flipX": false,
-          "name": "lightning"
         }
       ]
     }
@@ -56,5 +48,5 @@
     }
   },
   "name": "Spooky Mansion",
-  "directory": "week2"
+  "directory": "weirdweek"
 }
