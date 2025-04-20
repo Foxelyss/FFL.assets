@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "name": "Илья Иди Нахуй!",
+  "assetPath": "characters/bookfox-pico-thefir",
+  "singTime": 8.0,
+  "offsets": [0, 0],
+  "healthIcon": {
+    "id": "fir",
+    "flipX": false
+  },
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle_",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right_",
+      "offsets": [-50, 1]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down_",
+      "offsets": [84, -77]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up_",
+      "offsets": [21, 28]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left_",
+      "offsets": [84, -11]
+    }
+  ]
+}
