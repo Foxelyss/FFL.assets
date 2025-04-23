@@ -3,7 +3,7 @@
     {
       "name": "solid",
       "assetPath": "#242336",
-      "position": [-300, -500],
+      "position": [-300, -340],
       "scroll": [1, 1],
       "scale": [2400, 2000],
       "zIndex": -500
@@ -11,8 +11,8 @@
     {
       "danceEvery": 0,
       "zIndex": -100,
-      "position": [-200, -100],
-      "scale": [1, 1],
+      "position": [-250, 50],
+      "scale": [0.75, 0.75],
       "animType": "sparrow",
       "name": "halloweenBG",
       "isPixel": false,
@@ -24,7 +24,7 @@
           "offsets": [0, 0],
           "flipY": false,
           "frameRate": 24,
-          "prefix": "halfway-dead_",
+          "prefix": "basement_",
           "looped": true,
           "flipX": false,
           "name": "idle"
@@ -37,16 +37,16 @@
   "characters": {
     "bf": {
       "zIndex": 200,
-      "position": [989.5, 885],
-      "cameraOffsets": [-100, -100]
+      "position": [797, 903],
+      "cameraOffsets": [265, 33]
     },
-    "gf": { "zIndex": 100, "position": [751.5, 787], "cameraOffsets": [0, 0] },
+    "gf": { "zIndex": 100, "position": [751.5, 903], "cameraOffsets": [0, 0] },
     "dad": {
       "zIndex": 200,
-      "position": [382, 831],
-      "cameraOffsets": [150, -100]
+      "position": [758, 882],
+      "cameraOffsets": [-300, 0]
     }
   },
-  "name": "Spooky Mansion",
-  "directory": "weirdweek"
+  "name": "Basement",
+  "directory": "weekweird"
 }

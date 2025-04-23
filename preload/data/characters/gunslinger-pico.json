@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "Я устал это всё делать!",
+  "name": "Gunslinger Pico",
   "assetPath": "characters/gunslinger-pico",
   "healthIcon": {
     "id": "pico",
@@ -78,6 +78,26 @@
       "name": "singRIGHTmiss",
       "prefix": "missright_",
       "offsets": [-30, 21]
+    },
+    {
+      "name": "SHOT",
+      "prefix": "shot_",
+      "offsets": [84, -11]
+    },
+    {
+      "name": "RELOAD",
+      "prefix": "reload_",
+      "offsets": [84, -11]
+    },
+    {
+      "name": "DODGE",
+      "prefix": "dodge_",
+      "offsets": [84, -11]
+    },
+    {
+      "name": "BURP",
+      "prefix": "burp_",
+      "offsets": [84, -11]
     }
   ]
 }

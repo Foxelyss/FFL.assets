@@ -1,6 +1,6 @@
 {
   "version": "2.2.4",
-  "songName": "Илья Иди Нахуй!",
+  "songName": "Bookfox picomixo!",
   "artist": "JamSkrimer",
   "divisions": 96,
   "looped": false,
@@ -22,7 +22,7 @@
       "opponentVocals": ["dad"],
       "playerVocals": ["bf"]
     },
-    "stage": "mainStage",
+    "stage": "libraryPico",
     "noteStyle": "funkin",
     "ratings": {
       "easy": 0,

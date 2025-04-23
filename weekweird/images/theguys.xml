@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="theguys.png" width="2364" height="7751">
+	<SubTexture name="guys_01" x="1" y="7299" width="2362" height="451" frameX="-222" frameY="-477" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_02" x="1" y="6838" width="2362" height="458" frameX="-222" frameY="-470" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_03" x="1" y="4943" width="2362" height="499" frameX="-222" frameY="-429" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_04" x="1" y="3878" width="2362" height="532" frameX="-222" frameY="-396" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_05" x="1" y="1682" width="2362" height="551" frameX="-222" frameY="-377" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_06" x="1" y="1" width="2362" height="559" frameX="-222" frameY="-369" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_07" x="1" y="563" width="2362" height="559" frameX="-222" frameY="-369" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_08" x="1" y="1125" width="2362" height="554" frameX="-222" frameY="-374" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_09" x="1" y="2236" width="2362" height="549" frameX="-222" frameY="-379" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_10" x="1" y="2788" width="2362" height="545" frameX="-222" frameY="-383" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_11" x="1" y="3336" width="2362" height="539" frameX="-222" frameY="-389" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_12" x="1" y="4413" width="2362" height="527" frameX="-222" frameY="-401" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_13" x="1" y="5445" width="2362" height="462" frameX="-222" frameY="-466" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_14" x="1" y="5910" width="2362" height="461" frameX="-222" frameY="-467" frameWidth="2600" frameHeight="1200"/>
+	<SubTexture name="guys_15" x="1" y="6374" width="2362" height="461" frameX="-222" frameY="-467" frameWidth="2600" frameHeight="1200"/>
+</TextureAtlas>

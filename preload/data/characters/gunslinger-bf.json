@@ -78,6 +78,11 @@
       "name": "singRIGHTmiss",
       "prefix": "missright_",
       "offsets": [-30, 21]
+    },
+    {
+      "name": "DODGE",
+      "prefix": "dodge_",
+      "offsets": [84, -11]
     }
   ]
 }

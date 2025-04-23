@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "Илья Иди Нахуй!",
+  "name": "Lindo",
   "assetPath": "characters/gunslinger-lindo",
   "singTime": 8.0,
   "offsets": [0, 0],
@@ -32,6 +32,16 @@
     {
       "name": "singLEFT",
       "prefix": "left_",
+      "offsets": [84, -11]
+    },
+    {
+      "name": "SHOT",
+      "prefix": "shoot_",
+      "offsets": [84, -11]
+    },
+    {
+      "name": "RELOAD",
+      "prefix": "reload_",
       "offsets": [84, -11]
     }
   ]

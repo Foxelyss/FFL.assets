@@ -1,0 +1,47 @@
+import funkin.play.character.SparrowCharacter;
+import funkin.play.character.CharacterType;
+import funkin.play.PlayState;
+import funkin.audio.FunkinSound;
+import funkin.Conductor;
+import flixel.FlxG;
+
+class Lindo extends SparrowCharacter {
+	function new() {
+		super('gunslinger-lindo');
+	}
+
+	function onNoteHit(event:HitNoteScriptEvent)
+	{
+		if (!event.note.noteData.getMustHitNote() && characterType == CharacterType.DAD) {
+			// Override the hit note animation.
+			switch(event.note.kind) {
+				case "RELOAD":
+					holdTimer = 0;
+					this.playAnimation('RELOAD', true, true);
+				case "SHOT":
+					holdTimer = 0;
+					this.playAnimation('SHOT', true, true);
+				default:
+					super.onNoteHit(event);
+			}
+		}
+	}
+
+//	function onNoteIncoming(event:NoteScriptEvent) {
+//		if (!event.note.noteData.getMustHitNote() && characterType == CharacterType.DAD) {
+//			// Get how long until it's time to strum the note.
+//			var msTilStrum = event.note.strumTime - Conductor.instance.songPosition;
+//
+//			switch(event.note.kind) {
+//				case "RELOAD":
+//					scheduleLightCanSound(msTilStrum - 65);
+//				case "SHOT":
+//					scheduleKickCanSound(msTilStrum - 50);
+//				case "weekend-1-kneecan":
+//					scheduleKneeCanSound(msTilStrum - 22);
+//				default:
+//					super.onNoteIncoming(event);
+//			}
+//		}
+//	}
+}

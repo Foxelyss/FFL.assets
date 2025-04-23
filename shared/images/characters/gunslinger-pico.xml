@@ -27,37 +27,37 @@ Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 	<SubTexture name="down_7" x="2246" y="1" width="1121" height="316" frameX="-73" frameY="-281" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="down_8" x="3370" y="1" width="1120" height="316" frameX="-73" frameY="-281" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="down_9" x="4493" y="1" width="1120" height="316" frameX="-73" frameY="-280" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_001" x="3136" y="1321" width="1098" height="359" frameX="-73" frameY="-232" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_002" x="5511" y="3510" width="1091" height="363" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_003" x="1068" y="3866" width="1086" height="364" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_004" x="6605" y="3510" width="1082" height="363" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_005" x="1" y="3498" width="1080" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_006" x="1046" y="2405" width="1078" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_007" x="1046" y="2042" width="1078" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_008" x="2127" y="2045" width="1078" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_009" x="4237" y="1323" width="1078" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_010" x="5318" y="1324" width="1078" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_011" x="6399" y="1330" width="1079" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_012" x="1046" y="1680" width="1080" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_013" x="2129" y="1683" width="1082" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_014" x="5390" y="2055" width="1084" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_015" x="6477" y="2055" width="1085" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_098" x="3282" y="4984" width="1095" height="368" frameX="-73" frameY="-222" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_099" x="3194" y="2410" width="1104" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_100" x="4400" y="966" width="1107" height="354" frameX="-73" frameY="-236" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_101" x="2179" y="964" width="1108" height="352" frameX="-73" frameY="-238" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_102" x="3290" y="965" width="1107" height="353" frameX="-73" frameY="-237" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_103" x="5510" y="967" width="1107" height="354" frameX="-73" frameY="-236" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_104" x="3214" y="1685" width="1107" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_105" x="5368" y="2418" width="1107" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_106" x="6478" y="2418" width="1107" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_107" x="2119" y="2773" width="1117" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_108" x="3239" y="2776" width="1117" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_109" x="6648" y="2781" width="1117" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_110" x="1" y="3134" width="1117" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_111" x="1084" y="3501" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_112" x="2204" y="3504" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="idle_113" x="3324" y="3510" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_01" x="3136" y="1321" width="1098" height="359" frameX="-73" frameY="-232" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_02" x="5511" y="3510" width="1091" height="363" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_03" x="1068" y="3866" width="1086" height="364" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_04" x="6605" y="3510" width="1082" height="363" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_05" x="1" y="3498" width="1080" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_06" x="1046" y="2405" width="1078" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_07" x="1046" y="2042" width="1078" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_08" x="2127" y="2045" width="1078" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_09" x="4237" y="1323" width="1078" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_10" x="5318" y="1324" width="1078" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_11" x="6399" y="1330" width="1079" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_12" x="1046" y="1680" width="1080" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_13" x="2129" y="1683" width="1082" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_14" x="5390" y="2055" width="1084" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="idle_15" x="6477" y="2055" width="1085" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_10" x="3282" y="4984" width="1095" height="368" frameX="-73" frameY="-222" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_11" x="3194" y="2410" width="1104" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_12" x="4400" y="966" width="1107" height="354" frameX="-73" frameY="-236" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_13" x="2179" y="964" width="1108" height="352" frameX="-73" frameY="-238" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_14" x="3290" y="965" width="1107" height="353" frameX="-73" frameY="-237" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_15" x="5510" y="967" width="1107" height="354" frameX="-73" frameY="-236" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_16" x="3214" y="1685" width="1107" height="359" frameX="-73" frameY="-231" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_17" x="5368" y="2418" width="1107" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_18" x="6478" y="2418" width="1107" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_19" x="2119" y="2773" width="1117" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_20" x="3239" y="2776" width="1117" height="360" frameX="-73" frameY="-230" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_21" x="6648" y="2781" width="1117" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_22" x="1" y="3134" width="1117" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_23" x="1084" y="3501" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_24" x="2204" y="3504" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="burp_25" x="3324" y="3510" width="1117" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="left_1" x="1" y="4599" width="1052" height="369" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="left_10" x="1056" y="4602" width="1052" height="369" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="left_2" x="6462" y="3876" width="1068" height="366" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
@@ -73,15 +73,15 @@ Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 	<SubTexture name="missdown_3" x="1" y="963" width="1096" height="323" frameX="-73" frameY="-266" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missdown_4" x="1" y="963" width="1096" height="323" frameX="-73" frameY="-266" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missleft_1" x="1066" y="4233" width="1068" height="366" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="missleft_10" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="missright_5" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missleft_2" x="1066" y="4233" width="1068" height="366" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missleft_3" x="4324" y="1686" width="1068" height="359" frameX="-73" frameY="-233" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missleft_4" x="5395" y="1692" width="1068" height="359" frameX="-73" frameY="-233" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missleft_5" x="2137" y="4236" width="1068" height="366" frameX="-73" frameY="-226" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="missleft_6" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="missleft_7" x="2127" y="2408" width="1064" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="missleft_8" x="1" y="3863" width="1064" height="363" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
-	<SubTexture name="missleft_9" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="missright_1" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="missright_2" x="2127" y="2408" width="1064" height="361" frameX="-73" frameY="-229" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="missright_3" x="1" y="3863" width="1064" height="363" frameX="-73" frameY="-227" frameWidth="1280" frameHeight="720" />
+	<SubTexture name="missright_4" x="4444" y="3510" width="1064" height="362" frameX="-73" frameY="-228" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missup_1" x="1" y="1650" width="1042" height="363" frameX="-73" frameY="-232" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missup_2" x="1" y="1650" width="1042" height="363" frameX="-73" frameY="-232" frameWidth="1280" frameHeight="720" />
 	<SubTexture name="missup_3" x="1" y="2016" width="1042" height="363" frameX="-73" frameY="-232" frameWidth="1280" frameHeight="720" />

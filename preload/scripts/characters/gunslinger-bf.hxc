@@ -1,0 +1,80 @@
+import funkin.play.character.MultiSparrowCharacter;
+import funkin.play.character.CharacterType;
+import funkin.play.PlayState;
+import funkin.play.GameOverSubState;
+import funkin.graphics.adobeanimate.FlxAtlasSprite;
+import flixel.util.FlxTimer;
+import funkin.graphics.FunkinSprite;
+import funkin.audio.FunkinSound;
+import flixel.FlxSprite;
+import flixel.FlxG;
+import funkin.modding.base.ScriptedFunkinSprite;
+import flixel.group.FlxTypedSpriteGroup;
+import flixel.effects.FlxFlicker;
+import funkin.play.PauseSubState;
+import funkin.modding.module.ModuleHandler;
+import flixel.tweens.FlxTween;
+
+
+class GunslingerBF extends MultiSparrowCharacter {
+	function new() {
+		super('gunslinger-bf');
+	}
+
+	function onCreate(event:ScriptEvent) {
+		super.onCreate(event);
+	}
+
+
+	function onNoteHit(event:HitNoteScriptEvent)
+	{
+		if (event.eventCanceled) {
+			// onNoteHit event was cancelled by the gameplay module.
+			return;
+		}
+
+		if (event.note.noteData.getMustHitNote() && characterType == CharacterType.BF) {
+			// Override the hit note animation.
+			switch(event.note.kind) {
+				case "DODGE":
+					holdTimer = 0;
+					this.playAnimation('DODGE', true, true);
+				default:
+					super.onNoteHit(event);
+			}
+		}
+	}
+
+	function onNoteMiss(event:NoteScriptEvent)
+	{
+		// Override the miss note animation.
+		switch(event.note.kind) {
+			case "DODGE":
+				event.cancel();
+				// PlayState.instance.health -= 0.5;
+				trace(PlayState.instance.health);
+				event.note.handledMiss = true;
+				PlayState.instance.onNoteMiss(event.note, event.playSound, -1);
+				// Не заdodge'ил -- не мои проблемы!
+				// playCockMissAnim();
+			default:
+				super.onNoteMiss(event);
+		}
+	}
+
+	var picoFlicker:FlxFlicker = null;
+
+	override function onAnimationFinished(name:String) {
+		super.onAnimationFinished(name);
+
+		if (name == 'DODGE' && PlayState.instance.health > 0.0 && !PlayState.instance.isPlayerDying) {
+			// ERIC: You have to use super instead of this or it breaks.
+			// This is because typeof(this) is PolymodAbstractClass.
+      picoFlicker = FlxFlicker.flicker(super, 1, 1 / 30, true, true, function(_) {
+        picoFlicker = FlxFlicker.flicker(super, 0.5, 1 / 60, true, true, function(_) {
+					picoFlicker = null;
+				});
+      });
+		}
+	}
+}
