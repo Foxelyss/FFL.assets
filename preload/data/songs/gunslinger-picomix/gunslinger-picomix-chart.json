@@ -4908,20 +4908,5 @@
       }
     ]
   },
-<<<<<<< HEAD:preload/data/songs/bopeebo/bopeebo-chart-pico.json
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "generatedBy": "Friday Night Funkin' - v0.5.0 (runners-fixins-v2:b962c1a) PROTOTYPE"
->>>>>>> e73d0778 (Bopeebo Pico Mix)
-=======
-  "generatedBy": "Friday Night Funkin' - v0.5.0 (develop:96c151c:MODIFIED) PROTOTYPE"
->>>>>>> e19aaca1 (Updated Pico and Erect charts, sent on August 27th)
-}
-=======
-  "generatedBy": "Friday Night Funkin' - v0.5.0 (develop : 96c151c : MODIFIED) PROTOTYPE"
-}
->>>>>>> 564918de (so many charts)
-=======
   "generatedBy": "Friday Night Funkin' - v0.5.2"
 }
->>>>>>> dcfe3f18 (Charts v0.5):preload/data/songs/gunslinger-picomix/gunslinger-picomix-chart.json

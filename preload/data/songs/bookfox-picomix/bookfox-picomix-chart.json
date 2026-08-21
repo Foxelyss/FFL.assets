@@ -12056,16 +12056,5 @@
       }
     ]
   },
-<<<<<<< HEAD:preload/data/songs/ugh/ugh-chart-pico.json
-<<<<<<< HEAD
-  "generatedBy": "Friday Night Funkin' - v0.4.1 (rewrite/master:47b7aa7) PROTOTYPE"
-}
->>>>>>> fda4eaaf (Song metadata formatting, cleanup, corrections)
-=======
-  "generatedBy": "Friday Night Funkin' - v0.5.0"
-}
->>>>>>> 564918de (so many charts)
-=======
   "generatedBy": "Friday Night Funkin' - v0.5.2"
 }
->>>>>>> dcfe3f18 (Charts v0.5):preload/data/songs/bookfox-picomix/bookfox-picomix-chart.json
