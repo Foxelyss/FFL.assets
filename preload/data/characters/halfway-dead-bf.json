@@ -1,13 +1,16 @@
 {
   "version": "1.0.0",
-  "name": "Я устал это всё делать!",
+  "name": "I'm tiring of doing all of this!",
   "assetPath": "characters/halfway-dead-bf",
   "healthIcon": {
     "id": "bf",
     "flipX": false
   },
   "death": {
-    "cameraOffsets": [10, -40],
+    "cameraOffsets": [
+      10,
+      -40
+    ],
     "cameraZoom": 1.0
   },
   "flipX": true,
@@ -16,32 +19,50 @@
     {
       "name": "idle",
       "prefix": "idle_",
-      "offsets": [0, 0]
+      "offsets": [
+        0,
+        0
+      ]
     },
     {
       "name": "singRIGHT",
       "prefix": "right_",
-      "offsets": [-50, 1]
+      "offsets": [
+        -50,
+        1
+      ]
     },
     {
       "name": "singDOWN",
       "prefix": "down_",
-      "offsets": [84, -77]
+      "offsets": [
+        84,
+        -77
+      ]
     },
     {
       "name": "singUP",
       "prefix": "up_",
-      "offsets": [21, 28]
+      "offsets": [
+        21,
+        28
+      ]
     },
     {
       "name": "singLEFT",
       "prefix": "left_",
-      "offsets": [84, -11]
+      "offsets": [
+        84,
+        -11
+      ]
     },
     {
       "name": "hey",
       "prefix": "hey_",
-      "offsets": [84, -11]
+      "offsets": [
+        84,
+        -11
+      ]
     },
     {
       "name": "firstDeath",
@@ -57,27 +78,42 @@
     {
       "name": "deathConfirm",
       "prefix": "deathconfirm_",
-      "offsets": [-37, 69]
+      "offsets": [
+        -37,
+        69
+      ]
     },
     {
       "name": "singLEFTmiss",
       "prefix": "missleft_",
-      "offsets": [12, 24]
+      "offsets": [
+        12,
+        24
+      ]
     },
     {
       "name": "singDOWNmiss",
       "prefix": "missdown_",
-      "offsets": [-11, -19]
+      "offsets": [
+        -11,
+        -19
+      ]
     },
     {
       "name": "singUPmiss",
       "prefix": "missup_",
-      "offsets": [-29, 27]
+      "offsets": [
+        -29,
+        27
+      ]
     },
     {
       "name": "singRIGHTmiss",
       "prefix": "missright_",
-      "offsets": [-30, 21]
+      "offsets": [
+        -30,
+        21
+      ]
     }
   ]
 }
